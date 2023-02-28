@@ -7,5 +7,6 @@
 `npm run start`
 
 ## Endpoints
-`greetings` [/]
-`fetch messages files` [/messages]
+`greetings` [/]("/")
+
+`fetch messages files` [/messages]("/messages")
