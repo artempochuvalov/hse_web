@@ -1,12 +1,12 @@
 # Practicum 2
 
-## INSTALL
+## Install
 `npm install`
 
-## RUN
+## Run
 `npm run start`
 
 ## Endpoints
-`greetings` [/]("/")
+`greetings` [/]("")
 
-`fetch messages files` [/messages]("/messages")
+`fetch messages files` [/messages]("")
