@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>
+        Новый отзыв
+    </h1>
+    <form action="/review" method="POST" novalidate>
+        <input type="text" id="firstName" name="firstName" required>
+        <input type="text" id="lastName" name="lastName" required>
+        <textarea name="body" id="body" required></textarea>
+        <button>Отправить отзыв</button>
+    </form>
+</body>
+</html>
